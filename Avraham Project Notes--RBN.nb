@@ -1,0 +1,167 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5347,        157]
+NotebookOptionsPosition[      3810,        112]
+NotebookOutlinePosition[      4166,        128]
+CellTagsIndexPosition[      4123,        125]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Avraham Bourla", "Subsection",
+ CellChangeTimes->{{3.707136045495122*^9, 
+  3.707136075973796*^9}},ExpressionUUID->"8743543a-02ed-4fdb-8d23-\
+eabd3c6ef041"],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+teaching college college students for 11 years, want to teach in high school\
+\>", "Item",
+ CellChangeTimes->{{3.707136736308484*^9, 3.7071367562202682`*^9}, {
+  3.7071368250800047`*^9, 
+  3.707136841495475*^9}},ExpressionUUID->"df48b21a-58ec-40ee-99ec-\
+89851cfccc53"],
+
+Cell["PhD in number theory", "Item",
+ CellChangeTimes->{{3.707136736308484*^9, 
+  3.707136774210763*^9}},ExpressionUUID->"f3791df5-c088-463b-ae53-\
+9acae80b9231"],
+
+Cell["doing some research, teaching is a heavy load", "Item",
+ CellChangeTimes->{{3.707136736308484*^9, 3.707136786378888*^9}, {
+  3.707136849254252*^9, 
+  3.707136849254579*^9}},ExpressionUUID->"43810c90-b2ef-4a6d-beee-\
+29334bae4a2c"],
+
+Cell["want to use M in classroom", "Item",
+ CellChangeTimes->{{3.707136736308484*^9, 3.707136786378888*^9}, {
+  3.7071368495348682`*^9, 
+  3.707136858334074*^9}},ExpressionUUID->"e3924381-02a4-4359-9ce0-\
+27a49132f10a"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Discussion", "Subsubsection",
+ CellChangeTimes->{{3.707156387943328*^9, 
+  3.707156389605876*^9}},ExpressionUUID->"8470cc7a-ea83-4a6a-a867-\
+834a0559503e"],
+
+Cell[CellGroupData[{
+
+Cell["Stan Wagon \[OpenCurlyDoubleQuote]Computational Number Theory\
+\[CloseCurlyDoubleQuote]", "Item",
+ CellChangeTimes->{{3.707156406523735*^9, 
+  3.707156430323062*^9}},ExpressionUUID->"1119f325-07b1-4c6d-bb58-\
+a1a8a399604c"],
+
+Cell["SW: power tower mod something is the test", "Item",
+ CellChangeTimes->{{3.707156406523735*^9, 3.707156423443964*^9}, {
+  3.70715647101639*^9, 3.707156479328759*^9}, {3.707156514893827*^9, 
+  3.707156514894143*^9}, {3.7072062748477907`*^9, 
+  3.707206276124703*^9}},ExpressionUUID->"7cdc96fd-54e4-4978-b6fb-\
+92038b123da5"],
+
+Cell["\<\
+SW: numbers in different forms but equal should evaluate to Equal\
+\>", "Item",
+ CellChangeTimes->{{3.707156406523735*^9, 3.707156423443964*^9}, {
+   3.70715647101639*^9, 3.707156479328759*^9}, {3.707156515630498*^9, 
+   3.7071565391233273`*^9}, 
+   3.707206283063962*^9},ExpressionUUID->"e65606dc-3fbb-4d59-935a-\
+a3938e5f57be"],
+
+Cell["SW: transfinite numbers", "Item",
+ CellChangeTimes->{{3.707156406523735*^9, 3.707156423443964*^9}, {
+   3.70715647101639*^9, 3.707156479328759*^9}, {3.707156515630498*^9, 
+   3.707156549580011*^9}, 
+   3.707206285727319*^9},ExpressionUUID->"f511d768-e6b8-4efe-ada3-\
+087d682f6ee8"],
+
+Cell["\<\
+SW: make a package that will let one work with arbitrarily large numbers\
+\>", "Item",
+ CellChangeTimes->{{3.707156406523735*^9, 3.707156423443964*^9}, {
+   3.70715647101639*^9, 3.707156479328759*^9}, {3.707156515630498*^9, 
+   3.707156582500482*^9}, 
+   3.7072062881436872`*^9},ExpressionUUID->"742acf21-d06d-4b1c-94d2-\
+84246e4cd9b4"],
+
+Cell["SW: need to show leading and trailing digits", "Item",
+ CellChangeTimes->{{3.707156406523735*^9, 3.707156423443964*^9}, {
+  3.70715647101639*^9, 3.707156479328759*^9}, {3.707156515630498*^9, 
+  3.7071565920980053`*^9}, {3.707206292623404*^9, 
+  3.707206297235018*^9}},ExpressionUUID->"234c69b3-dffa-451d-8028-\
+77d240c77004"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 845},
+WindowMargins->{{332, Automatic}, {-4, Automatic}},
+FrontEndVersion->"11.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (April 27, \
+2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 162, 3, 44, "Subsection", "ExpressionUUID" -> \
+"8743543a-02ed-4fdb-8d23-eabd3c6ef041"],
+Cell[CellGroupData[{
+Cell[767, 29, 279, 6, 30, "Item", "ExpressionUUID" -> \
+"df48b21a-58ec-40ee-99ec-89851cfccc53"],
+Cell[1049, 37, 162, 3, 30, "Item", "ExpressionUUID" -> \
+"f3791df5-c088-463b-ae53-9acae80b9231"],
+Cell[1214, 42, 236, 4, 30, "Item", "ExpressionUUID" -> \
+"43810c90-b2ef-4a6d-beee-29334bae4a2c"],
+Cell[1453, 48, 219, 4, 30, "Item", "ExpressionUUID" -> \
+"e3924381-02a4-4359-9ce0-27a49132f10a"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1709, 57, 161, 3, 35, "Subsubsection", "ExpressionUUID" -> \
+"8470cc7a-ea83-4a6a-a867-834a0559503e"],
+Cell[CellGroupData[{
+Cell[1895, 64, 229, 4, 30, "Item", "ExpressionUUID" -> \
+"1119f325-07b1-4c6d-bb58-a1a8a399604c"],
+Cell[2127, 70, 328, 5, 30, "Item", "ExpressionUUID" -> \
+"7cdc96fd-54e4-4978-b6fb-92038b123da5"],
+Cell[2458, 77, 339, 7, 30, "Item", "ExpressionUUID" -> \
+"e65606dc-3fbb-4d59-935a-a3938e5f57be"],
+Cell[2800, 86, 287, 5, 30, "Item", "ExpressionUUID" -> \
+"f511d768-e6b8-4efe-ada3-087d682f6ee8"],
+Cell[3090, 93, 346, 7, 30, "Item", "ExpressionUUID" -> \
+"742acf21-d06d-4b1c-94d2-84246e4cd9b4"],
+Cell[3439, 102, 331, 5, 30, "Item", "ExpressionUUID" -> \
+"234c69b3-dffa-451d-8028-77d240c77004"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
