@@ -1,0 +1,113 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='WolframDesktop 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       161,          7]
+NotebookDataLength[      2944,        103]
+NotebookOptionsPosition[      2070,         74]
+NotebookOutlinePosition[      2427,         90]
+CellTagsIndexPosition[      2384,         87]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"pow", "[", 
+  RowBox[{"2", ",", 
+   RowBox[{"pow", "[", 
+    RowBox[{"2", ",", 
+     RowBox[{"pow", "[", 
+      RowBox[{"2", ",", "2"}], "]"}]}], "]"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.7071563127896147`*^9, 3.707156322875815*^9}, {
+  3.707156449741794*^9, 
+  3.7071564516422787`*^9}},ExpressionUUID->"3d73e32c-723e-49a6-9201-\
+f7c03006d8a6"],
+
+Cell[BoxData[
+ RowBox[{"pow", "[", 
+  RowBox[{"2", ",", 
+   RowBox[{"pow", "[", 
+    RowBox[{"2", ",", 
+     RowBox[{"pow", "[", 
+      RowBox[{"2", ",", "2"}], "]"}]}], "]"}]}], "]"}]], "Output",
+ CellChangeTimes->{
+  3.7071563638138857`*^9},ExpressionUUID->"f45deb32-accc-4d7a-90ee-\
+c4d8446fc819"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"Mod", "[", 
+  RowBox[{"%", ",", "3"}], "]"}]], "Input",
+ CellChangeTimes->{{3.70715637569306*^9, 
+  3.7071563783467913`*^9}},ExpressionUUID->"4514846f-cfa0-4479-84da-\
+c4229e9f8a1f"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"PowerMod", "[", 
+  RowBox[{"5", ",", "78", ",", "2"}], "]"}]], "Input",
+ CellChangeTimes->{{3.707156395741673*^9, 
+  3.707156402536076*^9}},ExpressionUUID->"16480f06-360f-44e4-aa19-\
+89c2f8810f5c"],
+
+Cell[BoxData["1"], "Output",
+ CellChangeTimes->{
+  3.7071564028650627`*^9},ExpressionUUID->"07b0990a-4b91-4af7-908f-\
+9c21d00811d1"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"Ackermann", "[", "XXX", "]"}]], "Input",
+ CellChangeTimes->{{3.707156581780389*^9, 
+  3.70715658576514*^9}},ExpressionUUID->"bb779b12-2942-43be-b67c-\
+03ed0cbd57f0"]
+},
+WindowSize->{808, 619},
+WindowMargins->{{62, Automatic}, {-142, Automatic}},
+FrontEndVersion->"11.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (April 27, \
+2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[583, 22, 374, 10, 32, "Input", "ExpressionUUID" -> \
+"3d73e32c-723e-49a6-9201-f7c03006d8a6"],
+Cell[960, 34, 300, 9, 32, "Output", "ExpressionUUID" -> \
+"f45deb32-accc-4d7a-90ee-c4d8446fc819"]
+}, Open  ]],
+Cell[1275, 46, 206, 5, 32, "Input", "ExpressionUUID" -> \
+"4514846f-cfa0-4479-84da-c4229e9f8a1f"],
+Cell[CellGroupData[{
+Cell[1506, 55, 221, 5, 32, "Input", "ExpressionUUID" -> \
+"16480f06-360f-44e4-aa19-89c2f8810f5c"],
+Cell[1730, 62, 132, 3, 32, "Output", "ExpressionUUID" -> \
+"07b0990a-4b91-4af7-908f-9c21d00811d1"]
+}, Open  ]],
+Cell[1877, 68, 189, 4, 32, "Input", "ExpressionUUID" -> \
+"bb779b12-2942-43be-b67c-03ed0cbd57f0"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
